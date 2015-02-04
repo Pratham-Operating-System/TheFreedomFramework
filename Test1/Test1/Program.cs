@@ -3,7 +3,7 @@ using System.Threading.Tasks;
 using System.Net.Http;
 using System.Collections.Generic;
 using System.ServiceModel;
-//this class is modified
+//this class is modified..but why???
 namespace Test1
 {
 	[ServiceContract]
